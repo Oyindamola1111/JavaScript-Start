@@ -158,3 +158,8 @@ let age = -65;
 
 let voting = age < 100 && age >= 18 ? "You can vote" : "You cannot vote";
 console.log(voting);
+
+let rom = 40;
+
+let mak = rom < 50 && rom >= 18 ? "you can vote" : "you cannot vote";
+console.log(mak);
