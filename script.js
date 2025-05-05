@@ -1,36 +1,36 @@
 
-// // // console.log(200);
+// console.log(200);
 
-// // let myAge = 34;
-// // myAge = 65;
+//  let myAge = 34;
+// myAge = 65;
 
-// // console.log(myAge);
+// console.log(myAge);
 
-// // const yourAge = 67;
+//const yourAge = 67;
 
-// // // yourAge = 45;
-// // console.log(yourAge);
+// yourAge = 45;
+//console.log(yourAge);
 
-// // let age;
+//let age;
 
-// // age = 45;
-// // console.log(age);
+//age = 45;
+//console.log(age);
 
-// //Primitive data types
+//Primitive data types
 
-// // string '' ""
+//string '' ""
 
 // let kezaya = "today is kezaya's birthday";
 
-// // number
+// number
 
 // let myNum = 63;
 
-// //boolean
+//boolean
 // const me = true;
 // const you = false;
 
-// //undefined
+//undefined
 // let test;
 // console.log(test);
 
@@ -40,8 +40,8 @@
 // test2 = 56;
 // console.log(test2);
 
-// // Non-primitive data types
-// // objects
+//Non-primitive data types
+//objects
 
 // const student = {
 //   name: "kezaya",
@@ -51,12 +51,12 @@
 
 // console.log(student);
 
-// // arrays
+//arrays
 
 // const myArray = ["Amaka", "James", 354, true, { name: "John" }, [2, 4, 6]];
 // console.log(myArray[2]);
 
-// // functions
+//functions
 
 //Arithemetic Operator
 
@@ -67,7 +67,7 @@
 // const sum = a + b;
 // console.log(sum);
 
-// //Subtraction
+//Subtraction
 // const subb = a - b;
 // console.log(subb);
 
@@ -79,14 +79,14 @@
 // const mut = a * b;
 // console.log(mut);
 
-// //Modulus
+//Modulus
 // const modul = b % a;
 // console.log(modul);
 
-// //Assignment Operators
+//Assignment Operators
 // let c = 39
-// // +=
-// // -=
+// +=
+// -=
 
 //Comparism Operators
 // const d = "jane";
@@ -99,15 +99,15 @@
 
 //Equals To
 // console.log(d == e);
-// //Grater Than
+// Grater Than
 // console.log(g > h);
-// //Less Than
+// Less Than
 // console.log(g < h);
-// //Greater than equals to
+// Greater than equals to
 // console.log(g >= i);
-// //Less than equals to
+// Less than equals to
 // console.log(g <= i);
-// //Not Equals To
+// Not Equals To
 // console.log(g != i);
 //Strictly Equals To
 // console.log(i === j);
@@ -132,9 +132,9 @@
 // console.log(checkAyoAgain);
 // console.log("from idcard", !idCard);
 
-// //Unary Operator
-// // Increment ++
-// // Decrement --
+//Unary Operator
+// Increment ++
+// Decrement --
 
 // let k = 3;
 // k++;
@@ -142,8 +142,8 @@
 // k--;
 // console.log(k);
 
-// //Tenary Operator
-// // (contition) ? "" : ""
+//Tenary Operator
+//(contition) ? "" : ""
 
 // const tenTest = 76 > 45 ? "Yes This is correct" : "No, That is wrong";
 
